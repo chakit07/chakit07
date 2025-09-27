@@ -85,7 +85,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Secure payment checkout using Stripe API.
   - Deployed full-stack: Frontend on Vercel, Backend on Render.
 - **Repository:** [github.com/chakit07/myntra-clone](https://linkedin.com/in/gjEm7PKJ)
-- **Live Demo:** [Live Frontend](https://linkedin.com/in/gvBSWGA8) | [Live Backend](https://linkedin.com/in/guSj4Sbi)
+- **Live Demo:** [Live](https://myntra-clone-frontend-teal.vercel.app/)
 
 ### **2. AI-Powered Expense Tracker 📊**
 - **Technologies:** `MERN Stack` `Firebase` `AI APIs`
@@ -95,7 +95,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Secure authentication with Firebase.
   - Export detailed reports in PDF/Excel.
 - **Repository:** [github.com/chakit07/expense-tracker](https://linkedin.com/in/gZtc6uGJ)
-- **Live Demo:** [Live Demo](https://linkedin.com/in/gyz7JQPm)
+- **Live Demo:** [Live Demo](https://expense-tracker-with-ai-insights-fr.vercel.app/)
 
 ### **3. Personal Portfolio Website**
 - **Technologies:** `React` `TailwindCSS` `Framer Motion` `Node.js` `Express` `MySQL`
@@ -105,7 +105,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Contact form with email notifications and automated resume delivery.
   - Light & dark mode support.
 - **Repository:** [github.com/chakit07/portfolio](https://linkedin.com/in/gH8CgP5x)
-- **Live Demo:** [Live Demo](https://linkedin.com/in/gGxJbbHs)
+- **Live Demo:** [Live Demo](https://portfolio-vert-sigma-74.vercel.app/)
 
 ### **4. Calculator App 🧮**
 - **Technologies:** `React.js` `HTML` `CSS` `JavaScript` `Bootstrap`
@@ -115,7 +115,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Visually enhanced UI with glowing and animated CSS effects.
   - Deployed live using Vercel.
 - **Repository:** [github.com/chakit07/calculator-app](https://linkedin.com/in/gCeGkRVj)
-- **Live Demo:** [Live Demo](https://linkedin.com/in/gqhi_vvJ)
+- **Live Demo:** [Live Demo](https://react-calculator-three-wheat-83.vercel.app/)
 
 ### **5. To-Do List App ✅**
 - **Technologies:** `React.js` `HTML` `CSS` `JavaScript`
@@ -125,7 +125,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Component-based architecture and dynamic CSS.
   - Live deployment on Vercel.
 - **Repository:** [github.com/chakit07/to-do-list](https://linkedin.com/in/gzAz53rp)
-- **Live Demo:** [Live Demo](https://linkedin.com/in/gSq3jQei)
+- **Live Demo:** [Live Demo](https://todo-app-seven-rho-71.vercel.app/)
 
 ### **6. Tic Tac Toe Game**
 - **Technologies:** `Java`
