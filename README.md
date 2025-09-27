@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="header.png"  width="700" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </div>
+  <img src="https://storage.googleapis.com/g-image-generation-production/googleusercontent.com/image_generation_content/0" alt="Chakit Sharma Header" width="700" style="border: 2px solid #5C5CFF; border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+</div>
 
 # 👋 Hi, I'm Chakit Sharma 🚀
 
