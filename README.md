@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile.jpeg" alt="Chakit Sharma Header" width="700" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="[profile.jpeg](https://example.com/your-pebble-header.png)" alt="Chakit Sharma Header" width="700" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </div>
 
 # 👋 Hi, I'm Chakit Sharma 🚀
