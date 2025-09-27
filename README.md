@@ -84,7 +84,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Component-based React architecture and Redux for state management.
   - Secure payment checkout using Stripe API.
   - Deployed full-stack: Frontend on Vercel, Backend on Render.
-- **Repository:** [Repo](github.com/chakit07/myntra-clone)
+- **Repository:** [Frontend](https://github.com/chakit07/Myntra-Clone-Frontend.git) || [Backend](https://github.com/chakit07/Myntra-Clone-Backend.git)
 - **Live Demo:** [Live](https://myntra-clone-frontend-teal.vercel.app/)
 
 ### **2. AI-Powered Expense Tracker 📊**
@@ -94,8 +94,8 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Track & manage daily expenses with AI-powered insights.
   - Secure authentication with Firebase.
   - Export detailed reports in PDF/Excel.
-- **Repository:** [Repo](https://github.com/chakit07/Expense-Tracker-with-Ai-Insights.git)
-- **Live Demo:** [Live Demo](https://expense-tracker-with-ai-insights-fr.vercel.app/)
+- **Repository:** [Frontend & Backend](https://github.com/chakit07/Expense-Tracker-with-Ai-Insights.git)
+- **Live Demo:** [Live](https://expense-tracker-with-ai-insights-fr.vercel.app/)
 
 ### **3. Personal Portfolio Website**
 - **Technologies:** `React` `TailwindCSS` `Framer Motion` `Node.js` `Express` `MySQL`
@@ -104,8 +104,8 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Responsive design with Framer Motion animations.
   - Contact form with email notifications and automated resume delivery.
   - Light & dark mode support.
-- **Repository:** [Repo](github.com/chakit07/portfolio)
-- **Live Demo:** [Live Demo](https://portfolio-vert-sigma-74.vercel.app/)
+- **Repository:** [Repo](https://github.com/chakit07/Portfolio.git)
+- **Live Demo:** [Live](https://portfolio-vert-sigma-74.vercel.app/)
 
 ### **4. Calculator App 🧮**
 - **Technologies:** `React.js` `HTML` `CSS` `JavaScript` `Bootstrap`
@@ -114,8 +114,8 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Standard arithmetic operations.
   - Visually enhanced UI with glowing and animated CSS effects.
   - Deployed live using Vercel.
-- **Repository:** [Repo](github.com/chakit07/calculator-app)
-- **Live Demo:** [Live Demo](https://react-calculator-three-wheat-83.vercel.app/)
+- **Repository:** [Repo](https://github.com/chakit07/React-Calculator.git)
+- **Live Demo:** [Live](https://react-calculator-three-wheat-83.vercel.app/)
 
 ### **5. To-Do List App ✅**
 - **Technologies:** `React.js` `HTML` `CSS` `JavaScript`
@@ -124,23 +124,23 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Add and delete to-do items.
   - Component-based architecture and dynamic CSS.
   - Live deployment on Vercel.
-- **Repository:** [Repo](github.com/chakit07/to-do-list)
-- **Live Demo:** [Live Demo](https://todo-app-seven-rho-71.vercel.app/)
+- **Repository:** [Repo](https://github.com/chakit07/Todo-App.git)
+- **Live Demo:** [Live](https://todo-app-seven-rho-71.vercel.app/)
 
 ### **6. Tic Tac Toe Game**
 - **Technologies:** `Java`
 - **Description:** A two-player Tic Tac Toe game with a customizable grid size and score tracking.
-- **Repository:** [Repo](github.com/chakit07/tic-tac-toe)
+- **Repository:** [Repo](https://github.com/chakit07/FutureIntern_JavaD_03.git)
 
 ### **7. Random Password Generator 🔐**
 - **Technologies:** `Java`
 - **Description:** A command-line application that generates secure passwords based on user-defined length and character preferences.
-- **Repository:** [Repo](github.com/chakit07/random-password-generator)
+- **Repository:** [Repo](https://github.com/chakit07/FutureIntern_JavaD_02.git)
 
 ### **8. Rock, Paper, Scissors Game 🎮**
 - **Technologies:** `Java`
 - **Description:** A classic Rock, Paper, Scissors game where the user competes against a randomized computer opponent.
-- **Repository:** [Repo](github.com/chakit07/rock-paper-scissors)
+- **Repository:** [Repo](https://github.com/chakit07/FutureIntern_JavaD_01.git)
 
 ---
 
