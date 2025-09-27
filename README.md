@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[header.png](header.png)"  width="700" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="header.png"  width="700" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </div>
 
 # 👋 Hi, I'm Chakit Sharma 🚀
