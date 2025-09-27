@@ -76,4 +76,32 @@
 ## 💬 **Let's Connect!**
 
 <p align="center">
-  <a href="mailto:chakitsharma7@gmail.com" target="_blank"><img src="
+  <a href="mailto:chakitsharma7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="filter: hue-rotate(300deg);"></a>
+  <a href="https://www.linkedin.com/in/chakitsharma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="filter: hue-rotate(60deg);"></a>
+  <a href="https://portfolio-vert-sigma-74.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="filter: hue-rotate(180deg);"></a>
+  <a href="https://github.com/chakit07" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="filter: hue-rotate(240deg);"></a>
+</p>
+
+---
+
+## 📊 **My GitHub Universe**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chakit07&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=E0BBE4&icon_color=957DAD&text_color=DAA2DE&bg_color=2B2D42&border_radius=15" alt="Chakit's GitHub Stats" style="box-shadow: 0 5px 15px rgba(106, 17, 203, 0.4);">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chakit07&theme=dark&hide_border=true&stroke=E0BBE4&background=2B2D42&currStreakLabel=957DAD&ring=E0BBE4&sideNums=DAA2DE&sideLabels=E0BBE4&dates=C2BBD6&border_radius=15" alt="GitHub Streak" style="box-shadow: 0 5px 15px rgba(106, 17, 203, 0.4);">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakit07&theme=synthwave&hide_border=true&layout=compact&title_color=E0BBE4&text_color=DAA2DE&bg_color=2B2D42&border_radius=15" alt="Top Languages" style="box-shadow: 0 5px 15px rgba(106, 17, 203, 0.4);">
+</div>
+
+---
+
+## 🌌 **Inspirational Byte**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=2B2D42&text_color=957DAD&border_radius=15" alt="Quote of the Day" style="box-shadow: 0 5px 15px rgba(106, 17, 203, 0.4);">
+</div>
+
+---
+
+✨ _"Innovate. Iterate. Inspire. The code is just the beginning."_ ✨
