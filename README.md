@@ -1,4 +1,4 @@
-[![Profile]()](profile.jpeg)
+![Profile](profile.jpeg)
 <!-- Replace with your actual header image file -->
 
 # 👋 Hi, I'm Chakit Sharma  
