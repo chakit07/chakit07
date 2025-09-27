@@ -94,7 +94,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Track & manage daily expenses with AI-powered insights.
   - Secure authentication with Firebase.
   - Export detailed reports in PDF/Excel.
-- **Repository:** [Repo](github.com/chakit07/expense-tracker)
+- **Repository:** [Repo](https://github.com/chakit07/Expense-Tracker-with-Ai-Insights.git)
 - **Live Demo:** [Live Demo](https://expense-tracker-with-ai-insights-fr.vercel.app/)
 
 ### **3. Personal Portfolio Website**
