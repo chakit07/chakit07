@@ -1,4 +1,4 @@
-[![Uploading image.png…]()](profile.jpeg)
+[![profile.jpeg]()](profile.jpeg)
 <!-- Replace with your actual header image file -->
 
 # 👋 Hi, I'm Chakit Sharma  
