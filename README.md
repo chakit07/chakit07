@@ -1,4 +1,5 @@
-![Header](header.png)  <!-- Replace with your actual header image file -->
+![Uploading image.png…]()
+<!-- Replace with your actual header image file -->
 
 # 👋 Hi, I'm Chakit Sharma  
 
