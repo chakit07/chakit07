@@ -1,4 +1,4 @@
-![Profile](profile.jpeg)
+![profile.jpeg](https://lh3.googleusercontent.com/gg-dl/AJfQ9KTSrgcILMPXTwiL7ruFncdhyZ0ja_UKTEHcSOzZjAzHn3MI95FAhNQD0BVyGFxmCNHTQ7FLhLpRG12hY6-NEa1_9k-4_BFVRZaLmxLcf_zqfv2Df08sCg8ikGXKdSxVz0ZKpcIFY1g8yqxHuv5dOpy7cl7LQ45-fErK439DFDPdnSer=s1024)
 <!-- Replace with your actual header image file -->
 
 # 👋 Hi, I'm Chakit Sharma  
