@@ -84,7 +84,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Component-based React architecture and Redux for state management.
   - Secure payment checkout using Stripe API.
   - Deployed full-stack: Frontend on Vercel, Backend on Render.
-- **Repository:** [github.com/chakit07/myntra-clone](https://linkedin.com/in/gjEm7PKJ)
+- **Repository:** [Repo](github.com/chakit07/myntra-clone)
 - **Live Demo:** [Live](https://myntra-clone-frontend-teal.vercel.app/)
 
 ### **2. AI-Powered Expense Tracker 📊**
@@ -94,7 +94,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Track & manage daily expenses with AI-powered insights.
   - Secure authentication with Firebase.
   - Export detailed reports in PDF/Excel.
-- **Repository:** [github.com/chakit07/expense-tracker](https://linkedin.com/in/gZtc6uGJ)
+- **Repository:** [Repo](github.com/chakit07/expense-tracker)
 - **Live Demo:** [Live Demo](https://expense-tracker-with-ai-insights-fr.vercel.app/)
 
 ### **3. Personal Portfolio Website**
@@ -104,7 +104,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Responsive design with Framer Motion animations.
   - Contact form with email notifications and automated resume delivery.
   - Light & dark mode support.
-- **Repository:** [github.com/chakit07/portfolio](https://linkedin.com/in/gH8CgP5x)
+- **Repository:** [Repo](github.com/chakit07/portfolio)
 - **Live Demo:** [Live Demo](https://portfolio-vert-sigma-74.vercel.app/)
 
 ### **4. Calculator App 🧮**
@@ -114,7 +114,7 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Standard arithmetic operations.
   - Visually enhanced UI with glowing and animated CSS effects.
   - Deployed live using Vercel.
-- **Repository:** [github.com/chakit07/calculator-app](https://linkedin.com/in/gCeGkRVj)
+- **Repository:** [Repo](github.com/chakit07/calculator-app)
 - **Live Demo:** [Live Demo](https://react-calculator-three-wheat-83.vercel.app/)
 
 ### **5. To-Do List App ✅**
@@ -124,23 +124,23 @@ Here are a few of my key projects. Feel free to explore the repositories to see 
   - Add and delete to-do items.
   - Component-based architecture and dynamic CSS.
   - Live deployment on Vercel.
-- **Repository:** [github.com/chakit07/to-do-list](https://linkedin.com/in/gzAz53rp)
+- **Repository:** [Repo](github.com/chakit07/to-do-list)
 - **Live Demo:** [Live Demo](https://todo-app-seven-rho-71.vercel.app/)
 
 ### **6. Tic Tac Toe Game**
 - **Technologies:** `Java`
 - **Description:** A two-player Tic Tac Toe game with a customizable grid size and score tracking.
-- **Repository:** [github.com/chakit07/tic-tac-toe](https://linkedin.com/in/eEKT_8Nh)
+- **Repository:** [Repo](github.com/chakit07/tic-tac-toe)
 
 ### **7. Random Password Generator 🔐**
 - **Technologies:** `Java`
 - **Description:** A command-line application that generates secure passwords based on user-defined length and character preferences.
-- **Repository:** [github.com/chakit07/random-password-generator](https://linkedin.com/in/eRy_vPM2)
+- **Repository:** [Repo](github.com/chakit07/random-password-generator)
 
 ### **8. Rock, Paper, Scissors Game 🎮**
 - **Technologies:** `Java`
 - **Description:** A classic Rock, Paper, Scissors game where the user competes against a randomized computer opponent.
-- **Repository:** [github.com/chakit07/rock-paper-scissors](https://linkedin.com/in/e_kCe2PT)
+- **Repository:** [Repo](github.com/chakit07/rock-paper-scissors)
 
 ---
 
