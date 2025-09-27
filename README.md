@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/uT2G35t.png" alt="Chakit Sharma Header" width="700" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  <img src="https://i.imgur.com/your-new-animated-header.gif" alt="Chakit Sharma Animated Header" width="700" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,255,255,0.4), 0 0 20px rgba(128,0,128,0.2);">
 </div>
 
 # 👋 Hello, I'm Chakit Sharma
