@@ -1,107 +1,92 @@
 <div align="center">
-  <img src="https://i.imgur.com/eA81p6Q.png" alt="Chakit Sharma Header" width="700" style="border-radius: 25px; box-shadow: 0 8px 25px rgba(0,0,0,0.4), 0 0 30px rgba(70, 130, 180, 0.6) inset;">
+  <img src="https://i.imgur.com/eE1D94C.png" alt="Chakit Sharma Header" width="700" style="border-radius: 20px; box-shadow: 0 0 15px rgba(255,0,255,0.8), 0 0 30px rgba(0,255,255,0.6);">
 </div>
 
-# <p align="center" style="background: linear-gradient(to right, #6A11CB, #2575FC); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">👋 Chakit Sharma</p>
+# <p align="center" style="font-family: 'Press Start 2P', cursive; text-shadow: 3px 3px #FF00FF, -3px -3px #00FFFF; color: #FFFFFF; font-size: 2.5em;">👋 CHAKIT SHARMA</p>
 
-<h3 align="center" style="color: #6C757D;">💻 Aspiring Full Stack Developer | 💡 Visionary Innovator | 🎓 Future-Ready Engineer</h3>
+<h3 align="center" style="font-family: 'Share Tech Mono', monospace; color: #FFD700; text-shadow: 1px 1px #000000;">CYBERPUNK DEV | 🌟 PROBLEM SOLVER | ⚡ FUTURE BUILDER</h3>
 
 ---
 
-## 🌟 **My Journey & Passions**
+## 👾 **MY DIGITAL MANIFESTO**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech_CSE-AKTU-blue.svg?style=for-the-badge&color=8A2BE2" alt="B.Tech CSE AKTU">
-  <img src="https://img.shields.io/badge/Full_Stack_Dev-MERN-green.svg?style=for-the-badge&color=4CAF50" alt="MERN Stack">
-  <img src="https://img.shields.io/badge/Cloud_Solutions-AWS-orange.svg?style=for-the-badge&color=FF9800" alt="AWS Cloud">
-  <img src="https://img.shields.io/badge/Data_Science-Python-red.svg?style=for-the-badge&color=DC143C" alt="Data Science Python">
+  <img src="https://img.shields.io/badge/B.Tech_CSE-AKTU-blue?style=for-the-badge&logo=react&logoColor=cyan&color=330033" alt="B.Tech CSE AKTU">
+  <img src="https://img.shields.io/badge/MERN_STACK-MASTER-green?style=for-the-badge&logo=mongodb&logoColor=lime&color=330033" alt="MERN Stack">
+  <img src="https://img.shields.io/badge/AWS_CLOUD-ARCHITECT-orange?style=for-the-badge&logo=amazon-aws&logoColor=white&color=330033" alt="AWS Cloud">
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-PYTHON-red?style=for-the-badge&logo=python&logoColor=white&color=330033" alt="Data Science Python">
 </p>
 
-- 🎓 **Academic Pursuit:** Currently engrossed in **B.Tech in Computer Science** at Dr. A.P.J. Abdul Kalam Technical University (2022–2026).
-- 💡 **Driving Force:** Deeply passionate about architecting end-to-end **Full-Stack Web Development** solutions and leveraging **Cloud Technologies**.
-- 🌱 **Growth Focus:** Continuously expanding my expertise in **MERN Stack, Data Science & AWS**.
-- 📊 **Technical Prowess:** Skilled in **React.js, Redux.js, Node.js, Express.js, and Python (Data Science)**.
-- 🌍 **Home Base:** Ghaziabad, Uttar Pradesh, India.
+- 🎓 **DATA STREAM:** Pursuing **B.Tech in Computer Science** from Dr. A.P.J. Abdul Kalam Technical University (2022–2026).
+- 💡 **CORE ALGORITHM:** Deep-diving into **Full-Stack Web Development, Cloud Solutions, and Data Science**.
+- 🌱 **UPGRADE PATH:** Leveling up skills in **MERN Stack, Data Science, and AWS**.
+- 📊 **SYNTAX & LOGIC:** Proficient with **React.js, Redux.js, Node.js, Express.js, and Python (Data Science)**.
+- 🌍 **ACCESS POINT:** Ghaziabad, Uttar Pradesh, India.
 
 ---
 
-## 💼 **Professional Milestones**
+## 💾 **SIMULATION LOGS: EXPERIENCE**
 
 ### **Internship Trainee – iCtrlBiz Consulting Pvt Ltd**
-*June 2025 – Aug 2025 | Noida*
-- Significantly contributed to **React.js & Redux.js** projects, enhancing dynamic web applications.
-- Collaborated effectively in an agile-driven environment to deliver scalable and robust solutions.
+*CYCLES: June 2025 – Aug 2025 | SECTOR: Noida*
+- Contributed to dynamic web applications using **React.js & Redux.js**, optimizing user interfaces and state management protocols.
+- Operated within a collaborative, high-frequency agile environment, delivering robust and scalable solutions.
 
 ### **Future Intern – Future Intern Program**
-*Sept 2024 – Oct 2024 | Ghaziabad*
-- Led development for projects including **Rock, Paper, Scissors**, **Random Password Generator**, **Tic-Tac-Toe**, and an **Expense Tracker with AI Insights**.
+*CYCLES: Sept 2024 – Oct 2024 | SECTOR: Ghaziabad*
+- Developed a suite of interactive programs: **Rock, Paper, Scissors**, **Random Password Generator**, **Tic-Tac-Toe**, and an **Expense Tracker with AI-driven Insights**.
 
 ### **Technical Trainee – ShapeMySkills Pvt. Ltd.**
-*Jan 2024 – Mar 2024 | Ghaziabad*
-- Successfully completed **Data Science with Python** training.
-- Gained hands-on experience in **data manipulation, visualization, and advanced analysis**.
+*CYCLES: Jan 2024 – Mar 2024 | SECTOR: Ghaziabad*
+- Completed specialized **Data Science with Python** training, mastering **data manipulation, visualization, and advanced analytical methods**.
 
 ---
 
-## ⚙️ **My Development Ecosystem**
+## 🛠️ **MY CYBER-TOOLKIT**
 
 <p align="center">
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="filter: brightness(1.2);"></a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="filter: brightness(1.2);"></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="filter: brightness(1.2);"></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="filter: brightness(1.2);"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="filter: brightness(1.2);"></a>
-  <br>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="filter: brightness(1.2);"></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="filter: brightness(1.2);"></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="filter: brightness(1.2);"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="filter: brightness(1.2);"></a>
-  <br>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="filter: brightness(1.2);"></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="filter: brightness(1.2);"></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="filter: brightness(1.2);"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="filter: brightness(1.2);"></a>
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,js,nodejs,express,mongodb,postgresql,git,github,postman,firebase,aws,python" style="filter: saturate(1.5) hue-rotate(270deg) drop-shadow(0 0 8px #FF00FF);"/>
 </p>
 
 ---
 
-## 📜 **Key Accomplishments**
+## 🌟 **PROTOCOL CERTIFICATIONS**
 
 - 🏆 **AWS APAC – Solutions Architecture Job Simulation**
-- 🏆 **React & Redux Certification**
-- 🏆 **Data Science with Python Certification**
+- 🏆 **React & Redux**
+- 🏆 **Data Science with Python**
 
 ---
 
-## 💬 **Let's Connect!**
+## 📡 **CONNECTIVITY ARRAY**
 
 <p align="center">
-  <a href="mailto:chakitsharma7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="filter: hue-rotate(300deg);"></a>
-  <a href="https://www.linkedin.com/in/chakitsharma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="filter: hue-rotate(60deg);"></a>
-  <a href="https://portfolio-vert-sigma-74.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="filter: hue-rotate(180deg);"></a>
-  <a href="https://github.com/chakit07" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="filter: hue-rotate(240deg);"></a>
+  <a href="mailto:chakitsharma7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF00FF" alt="Email" style="filter: brightness(1.2);"></a>
+  <a href="https://www.linkedin.com/in/chakitsharma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="LinkedIn" style="filter: brightness(1.2);"></a>
+  <a href="https://portfolio-vert-sigma-74.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&color=FFA500" alt="Portfolio" style="filter: brightness(1.2);"></a>
+  <a href="https://github.com/chakit07" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white&color=8A2BE2" alt="GitHub" style="filter: brightness(1.2);"></a>
 </p>
 
 ---
 
-## 📊 **My GitHub Universe**
+## 📊 **GITHUB DATASTREAMS**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chakit07&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=E0BBE4&icon_color=957DAD&text_color=DAA2DE&bg_color=2B2D42&border_radius=15" alt="Chakit's GitHub Stats" style="box-shadow: 0 5px 15px rgba(106, 17, 203, 0.4);">
+  <img src="https://github-readme-stats.vercel.app/api?username=chakit07&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=1a0033&border_radius=10" alt="Chakit's GitHub Stats" style="box-shadow: 0 0 10px rgba(255,0,255,0.7);">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chakit07&theme=dark&hide_border=true&stroke=E0BBE4&background=2B2D42&currStreakLabel=957DAD&ring=E0BBE4&sideNums=DAA2DE&sideLabels=E0BBE4&dates=C2BBD6&border_radius=15" alt="GitHub Streak" style="box-shadow: 0 5px 15px rgba(106, 17, 203, 0.4);">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chakit07&theme=dark&hide_border=true&stroke=FF00FF&background=1a0033&currStreakLabel=00FFFF&ring=FF00FF&sideNums=FFFFFF&sideLabels=FFD700&dates=00FFFF&border_radius=10" alt="GitHub Streak" style="box-shadow: 0 0 10px rgba(0,255,255,0.7);">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakit07&theme=synthwave&hide_border=true&layout=compact&title_color=E0BBE4&text_color=DAA2DE&bg_color=2B2D42&border_radius=15" alt="Top Languages" style="box-shadow: 0 5px 15px rgba(106, 17, 203, 0.4);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakit07&theme=synthwave&hide_border=true&layout=compact&title_color=00FFFF&text_color=FFD700&bg_color=1a0033&border_radius=10" alt="Top Languages" style="box-shadow: 0 0 10px rgba(255,0,255,0.7);">
 </div>
 
 ---
 
-## 🌌 **Inspirational Byte**
+## 🔮 **DAILY AXIOM**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=2B2D42&text_color=957DAD&border_radius=15" alt="Quote of the Day" style="box-shadow: 0 5px 15px rgba(106, 17, 203, 0.4);">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=1a0033&text_color=00FFFF&border_radius=10" alt="Quote of the Day" style="box-shadow: 0 0 10px rgba(255,0,255,0.7);">
 </div>
 
 ---
 
-✨ _"Innovate. Iterate. Inspire. The code is just the beginning."_ ✨
+✨ _"CODE. CREATE. CONQUER. The digital frontier awaits."_ ✨
