@@ -1,4 +1,4 @@
-![profile.jpeg](https://portfolio-vert-sigma-74.vercel.app/MyImage.jpeg)
+![Profile](profile.jpeg)
 <!-- Replace with your actual header image file -->
 
 # 👋 Hi, I'm Chakit Sharma  
